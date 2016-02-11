@@ -1,6 +1,6 @@
 # Test Repo
 
-A repository created as first exercise from **The Elements of Data Science**[^elementsdatascience] course.
+A repository created as first exercise from **The Elements of Data Science** course.
 
 > **This is a Note:**
 >  
@@ -12,5 +12,3 @@ A repository created as first exercise from **The Elements of Data Science**[^el
  -  R files those implement the practices sugested in the course
  -  Data scripts
  - ??
-
-[^elementsdatascience]:**The Elements Of Data Science** is the first course in the data science learning path provided by Jonhs Hopkins University
